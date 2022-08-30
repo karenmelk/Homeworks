@@ -1,0 +1,3 @@
+Write a program that takes in a string as input, 
+counts and outputs the number of vowels.
+And add result in json file.
